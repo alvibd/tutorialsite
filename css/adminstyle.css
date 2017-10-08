@@ -1,0 +1,22 @@
+.edit-cat{
+	padding: 5px;
+}
+.back-btn{
+	margin-left: 1%;
+}
+.all{
+	display: table;
+	margin: auto; 
+}
+.add-pan{
+	margin-top: 60px;
+	width: 40%;
+}
+.add-cat{
+	margin-top: 60px;
+	width: 40%;
+}
+.add-tut{
+	margin-top: 60px;
+	width: 65%;
+}
